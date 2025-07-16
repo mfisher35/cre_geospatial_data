@@ -1,5 +1,5 @@
-hostname = 'services.foresite.ai'
-username = 'postgres'
-password = '1119sLater'
+hostname = 'myserver.com'
+username = 'postgres username example'
+password = 'postgres password example'
 port = 5436
 database = "please run psql->init(database)"
